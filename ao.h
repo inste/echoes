@@ -22,7 +22,7 @@
 #define _AO_H_
 
 #include <stdio.h>
-#include <ao/ao.h>
+#include "ao/ao.h"
 
 struct AOutput {
 	ao_device * device;
